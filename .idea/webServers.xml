@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4384da35-525d-4e98-9f59-75537a4f4ee2" name="demo" url="http://localhost:8080/PHP2021">
+        <fileTransfer mountedRoot="D:\Setup\Xampp\htdocs\PHP2021" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
