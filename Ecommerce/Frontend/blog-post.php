@@ -24,7 +24,7 @@
 
                         <div class="post-head">
                             <div class="thumbnail">
-                                <figure><img src="images/blogpost/post_thumbnail.jpg" width="870" height="635" alt=""></figure>
+                                <figure><img src="assets/images/blogpost/post_thumbnail.jpg" width="870" height="635" alt=""></figure>
                             </div>
                             <h2 class="post-name">Ashwagandha: The #1 Herb in the World for Anxiety?</h2>
                             <p class="post-archive"><b class="post-cat">ORGANIC</b><span class="post-date"> / 20 Nov, 2018</span><span class="author">Posted By: Braum J.Teran</span></p>
@@ -59,7 +59,7 @@
 
                             <div class="auth-info">
                                 <div class="ath">
-                                    <a href="#" class="avata"><img src="images/blogpost/author-02.png" width="29" height="28" alt="Christian Doe">Christian Doe</a>
+                                    <a href="#" class="avata"><img src="assets/images/blogpost/author-02.png" width="29" height="28" alt="Christian Doe">Christian Doe</a>
                                     <span class="count-item viewer"><i class="fa fa-eye" aria-hidden="true"></i>630</span>
                                     <span class="count-item commented"><i class="fa fa-commenting" aria-hidden="true"></i>26</span>
                                 </div>
@@ -87,7 +87,7 @@
                             <form action="#" method="post" name="frm-post-comment">
                                 <p class="form-row">
                                     <textarea name="txt-comment" id="txt-comment-ath-3364" cols="30" rows="10" placeholder="Write your comment"></textarea>
-                                    <a href="#" class="current-author"><img src="images/blogpost/viewer-avt.png" width="41" height="41" alt=""></a>
+                                    <a href="#" class="current-author"><img src="assets/images/blogpost/viewer-avt.png" width="41" height="41" alt=""></a>
                                 </p>
                                 <p class="form-row last-btns">
                                     <button type="submit" class="btn btn-sumit">post a comment</button>
@@ -106,7 +106,7 @@
 
                                         <div class="cmt-inner">
                                             <div class="auth-info">
-                                                <a href="#" class="author-contact"><img src="images/blogpost/author-02.png" alt="" width="29" height="28">Christiano Bale</a>
+                                                <a href="#" class="author-contact"><img src="assets/images/blogpost/author-02.png" alt="" width="29" height="28">Christiano Bale</a>
                                                 <span class="cmt-time">4 days ago</span>
                                             </div>
                                             <div class="cmt-content">
@@ -126,7 +126,7 @@
                                                     <div class="wrap-post-comment">
                                                         <div class="cmt-inner">
                                                             <div class="auth-info">
-                                                                <a href="#" class="author-contact"><img src="images/blogpost/author-03.png" alt="" width="29" height="28">Samuel Godi</a>
+                                                                <a href="#" class="author-contact"><img src="assets/images/blogpost/author-03.png" alt="" width="29" height="28">Samuel Godi</a>
                                                                 <span class="cmt-time">4 days ago</span>
                                                             </div>
                                                             <div class="cmt-content">

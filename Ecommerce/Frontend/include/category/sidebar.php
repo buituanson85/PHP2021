@@ -104,7 +104,7 @@
                         <div class="contain-product style-widget">
                             <div class="product-thumb">
                                 <a href="#" class="link-to-product" tabindex="0">
-                                    <img src="images/products/p-13.jpg" alt="dd" width="270" height="270" class="product-thumnail">
+                                    <img src="assets/images/products/p-13.jpg" alt="dd" width="270" height="270" class="product-thumnail">
                                 </a>
                             </div>
                             <div class="info">
@@ -121,7 +121,7 @@
                         <div class="contain-product style-widget">
                             <div class="product-thumb">
                                 <a href="#" class="link-to-product" tabindex="0">
-                                    <img src="images/products/p-14.jpg" alt="dd" width="270" height="270" class="product-thumnail">
+                                    <img src="assets/images/products/p-14.jpg" alt="dd" width="270" height="270" class="product-thumnail">
                                 </a>
                             </div>
                             <div class="info">
@@ -138,7 +138,7 @@
                         <div class="contain-product style-widget">
                             <div class="product-thumb">
                                 <a href="#" class="link-to-product" tabindex="0">
-                                    <img src="images/products/p-10.jpg" alt="dd" width="270" height="270" class="product-thumnail">
+                                    <img src="assets/images/products/p-10.jpg" alt="dd" width="270" height="270" class="product-thumnail">
                                 </a>
                             </div>
                             <div class="info">

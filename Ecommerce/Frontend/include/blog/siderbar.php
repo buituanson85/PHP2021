@@ -39,7 +39,7 @@
                     <li>
                         <div class="wgt-post-item">
                             <div class="thumb">
-                                <a href="#"><img src="images/blogpost/post-wgt-01.jpg" width="80" height="58" alt=""></a>
+                                <a href="#"><img src="assets/images/blogpost/post-wgt-01.jpg" width="80" height="58" alt=""></a>
                             </div>
                             <div class="detail">
                                 <h4 class="post-name"><a href="#">Ashwagandha: The #1 Herb in the World</a></h4>
@@ -50,7 +50,7 @@
                     <li>
                         <div class="wgt-post-item">
                             <div class="thumb">
-                                <a href="#"><img src="images/blogpost/post-wgt-02.jpg" width="80" height="58" alt=""></a>
+                                <a href="#"><img src="assets/images/blogpost/post-wgt-02.jpg" width="80" height="58" alt=""></a>
                             </div>
                             <div class="detail">
                                 <h4 class="post-name"><a href="#">Ashwagandha: The #1 Herb in the World</a></h4>
@@ -61,7 +61,7 @@
                     <li>
                         <div class="wgt-post-item">
                             <div class="thumb">
-                                <a href="#"><img src="images/blogpost/post-wgt-03.jpg" width="80" height="58" alt=""></a>
+                                <a href="#"><img src="assets/images/blogpost/post-wgt-03.jpg" width="80" height="58" alt=""></a>
                             </div>
                             <div class="detail">
                                 <h4 class="post-name"><a href="#">Ashwagandha: The #1 Herb in the World</a></h4>
@@ -80,7 +80,7 @@
                 <ul class="content">
                     <li>
                         <div class="wgt-twitter-item">
-                            <div class="author"><a href="#"><img src="images/blogpost/author.png" width="38" height="38" alt="author"></a></div>
+                            <div class="author"><a href="#"><img src="assets/images/blogpost/author.png" width="38" height="38" alt="author"></a></div>
                             <div class="detail">
                                 <h4 class="account-info">
                                     <a href="#" class="ath-name">Braum J. Teran</a>
@@ -96,14 +96,14 @@
                     </li>
                     <li>
                         <div class="wgt-twitter-item">
-                            <div class="author"><a href="#"><img src="images/blogpost/author.png" width="38" height="38" alt="author"></a></div>
+                            <div class="author"><a href="#"><img src="assets/images/blogpost/author.png" width="38" height="38" alt="author"></a></div>
                             <div class="detail">
                                 <h4 class="account-info">
                                     <a href="#" class="ath-name">Braum J. Teran</a>
                                     <a href="#" class="ath-taglink">@real BraumTeran</a>
                                 </h4>
                                 <p class="tweet-content">@jakedonham President XI told me he appreciates that the U.S.<br/><a href="#">http://company/googletzd</a></p>
-                                </p>
+
                                 <div class="tweet-count">
                                     <a class="btn responsed"><i class="fa fa-comment" aria-hidden="true"></i>2.9N</a>
                                     <a class="btn liked"><i class="fa fa-heart" aria-hidden="true"></i>10N</a>

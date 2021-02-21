@@ -1,0 +1,34 @@
+<?php include 'include/header.php'?>
+
+    <!-- Right Panel -->
+
+    <div id="right-panel" class="right-panel">
+<!-- Start nav-bar-->
+    <?php include 'include/nav-bar.php'?>
+<!--End nav bar -->
+        <div class="breadcrumbs">
+            <div class="col-sm-12">
+                <div class="page-header float-left">
+                    <div class="page-title">
+                        <h1>Dashboard</h1>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="content mt-3">
+
+            <div class="col-sm-12">
+                <div class="alert  alert-success alert-dismissible fade show" role="alert">
+                    <span class="badge badge-pill badge-success">Success</span> You successfully read this important alert message.
+                    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+            </div>
+        </div> <!-- .content -->
+    </div><!-- /#right-panel -->
+
+    <!-- Right Panel -->
+<?php include 'include/footer.php'?>
+

@@ -75,7 +75,7 @@
                                         <div class="cart-item">
                                             <div class="product-thumb">
                                                 <a class="prd-thumb" href="#">
-                                                    <figure><img src="images/shippingcart/pr-01.jpg" width="113" height="113" alt="shop-cart" ></figure>
+                                                    <figure><img src="assets/images/shippingcart/pr-01.jpg" width="113" height="113" alt="shop-cart" ></figure>
                                                 </a>
                                             </div>
                                             <div class="info">
@@ -92,7 +92,7 @@
                                         <div class="cart-item">
                                             <div class="product-thumb">
                                                 <a class="prd-thumb" href="#">
-                                                    <figure><img src="images/shippingcart/pr-02.jpg" width="113" height="113" alt="shop-cart" ></figure>
+                                                    <figure><img src="assets/images/shippingcart/pr-02.jpg" width="113" height="113" alt="shop-cart" ></figure>
                                                 </a>
                                             </div>
                                             <div class="info">

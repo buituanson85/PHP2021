@@ -28,7 +28,7 @@
                                 <div class="contain-product layout-02">
                                     <div class="product-thumb">
                                         <a href="#" class="link-to-product">
-                                            <img src="images/products/p-08.jpg" alt="dd" width="270" height="270" class="product-thumnail">
+                                            <img src="assets/images/products/p-08.jpg" alt="dd" width="270" height="270" class="product-thumnail">
                                         </a>
                                     </div>
                                     <div class="info">
@@ -45,7 +45,7 @@
                                 <div class="contain-product layout-02">
                                     <div class="product-thumb">
                                         <a href="#" class="link-to-product">
-                                            <img src="images/products/p-11.jpg" alt="dd" width="270" height="270" class="product-thumnail">
+                                            <img src="assets/images/products/p-11.jpg" alt="dd" width="270" height="270" class="product-thumnail">
                                         </a>
                                     </div>
                                     <div class="info">
@@ -62,7 +62,7 @@
                                 <div class="contain-product layout-02">
                                     <div class="product-thumb">
                                         <a href="#" class="link-to-product">
-                                            <img src="images/products/p-17.jpg" alt="dd" width="270" height="270" class="product-thumnail">
+                                            <img src="assets/images/products/p-17.jpg" alt="dd" width="270" height="270" class="product-thumnail">
                                         </a>
                                     </div>
                                     <div class="info">
@@ -79,7 +79,7 @@
                                 <div class="contain-product layout-02">
                                     <div class="product-thumb">
                                         <a href="#" class="link-to-product">
-                                            <img src="images/products/p-15.jpg" alt="dd" width="270" height="270" class="product-thumnail">
+                                            <img src="assets/images/products/p-15.jpg" alt="dd" width="270" height="270" class="product-thumnail">
                                         </a>
                                     </div>
                                     <div class="info">
@@ -96,7 +96,7 @@
                                 <div class="contain-product layout-02">
                                     <div class="product-thumb">
                                         <a href="#" class="link-to-product">
-                                            <img src="images/products/p-09.jpg" alt="dd" width="270" height="270" class="product-thumnail">
+                                            <img src="assets/images/products/p-09.jpg" alt="dd" width="270" height="270" class="product-thumnail">
                                         </a>
                                     </div>
                                     <div class="info">
@@ -113,7 +113,7 @@
                                 <div class="contain-product layout-02">
                                     <div class="product-thumb">
                                         <a href="#" class="link-to-product">
-                                            <img src="images/products/p-02.jpg" alt="dd" width="270" height="270" class="product-thumnail">
+                                            <img src="assets/images/products/p-02.jpg" alt="dd" width="270" height="270" class="product-thumnail">
                                         </a>
                                     </div>
                                     <div class="info">
@@ -130,7 +130,7 @@
                                 <div class="contain-product layout-02">
                                     <div class="product-thumb">
                                         <a href="#" class="link-to-product">
-                                            <img src="images/products/p-07.jpg" alt="dd" width="270" height="270" class="product-thumnail">
+                                            <img src="assets/images/products/p-07.jpg" alt="dd" width="270" height="270" class="product-thumnail">
                                         </a>
                                     </div>
                                     <div class="info">
@@ -147,7 +147,7 @@
                                 <div class="contain-product layout-02">
                                     <div class="product-thumb">
                                         <a href="#" class="link-to-product">
-                                            <img src="images/products/p-03.jpg" alt="dd" width="270" height="270" class="product-thumnail">
+                                            <img src="assets/images/products/p-03.jpg" alt="dd" width="270" height="270" class="product-thumnail">
                                         </a>
                                     </div>
                                     <div class="info">
@@ -164,7 +164,7 @@
                                 <div class="contain-product layout-02">
                                     <div class="product-thumb">
                                         <a href="#" class="link-to-product">
-                                            <img src="images/products/p-21.jpg" alt="dd" width="270" height="270" class="product-thumnail">
+                                            <img src="assets/images/products/p-21.jpg" alt="dd" width="270" height="270" class="product-thumnail">
                                         </a>
                                     </div>
                                     <div class="info">
@@ -257,7 +257,7 @@
                                     <div class="contain-product pr-detail-layout">
                                         <div class="product-thumb">
                                             <a href="#" class="link-to-product">
-                                                <img src="images/products/p-11.jpg" alt="dd" width="270" height="270" class="product-thumnail">
+                                                <img src="assets/images/products/p-11.jpg" alt="dd" width="270" height="270" class="product-thumnail">
                                             </a>
                                         </div>
                                         <div class="info">
@@ -291,7 +291,7 @@
                                     <div class="contain-product pr-detail-layout">
                                         <div class="product-thumb">
                                             <a href="#" class="link-to-product">
-                                                <img src="images/products/p-13.jpg" alt="dd" width="270" height="270" class="product-thumnail">
+                                                <img src="assets/images/products/p-13.jpg" alt="dd" width="270" height="270" class="product-thumnail">
                                             </a>
                                         </div>
                                         <div class="info">
@@ -325,7 +325,7 @@
                                     <div class="contain-product pr-detail-layout">
                                         <div class="product-thumb">
                                             <a href="#" class="link-to-product">
-                                                <img src="images/products/p-14.jpg" alt="dd" width="270" height="270" class="product-thumnail">
+                                                <img src="assets/images/products/p-14.jpg" alt="dd" width="270" height="270" class="product-thumnail">
                                             </a>
                                         </div>
                                         <div class="info">
@@ -359,7 +359,7 @@
                                     <div class="contain-product pr-detail-layout">
                                         <div class="product-thumb">
                                             <a href="#" class="link-to-product">
-                                                <img src="images/products/p-17.jpg" alt="dd" width="270" height="270" class="product-thumnail">
+                                                <img src="assets/images/products/p-17.jpg" alt="dd" width="270" height="270" class="product-thumnail">
                                             </a>
                                         </div>
                                         <div class="info">
@@ -393,7 +393,7 @@
                                     <div class="contain-product pr-detail-layout">
                                         <div class="product-thumb">
                                             <a href="#" class="link-to-product">
-                                                <img src="images/products/p-08.jpg" alt="dd" width="270" height="270" class="product-thumnail">
+                                                <img src="assets/images/products/p-08.jpg" alt="dd" width="270" height="270" class="product-thumnail">
                                             </a>
                                         </div>
                                         <div class="info">
@@ -427,7 +427,7 @@
                                     <div class="contain-product pr-detail-layout">
                                         <div class="product-thumb">
                                             <a href="#" class="link-to-product">
-                                                <img src="images/products/p-10.jpg" alt="dd" width="270" height="270" class="product-thumnail">
+                                                <img src="assets/images/products/p-10.jpg" alt="dd" width="270" height="270" class="product-thumnail">
                                             </a>
                                         </div>
                                         <div class="info">

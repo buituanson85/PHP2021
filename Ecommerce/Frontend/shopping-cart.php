@@ -70,7 +70,7 @@
                                     <tr class="cart_item">
                                         <td class="product-thumbnail" data-title="Product Name">
                                             <a class="prd-thumb" href="#">
-                                                <figure><img width="113" height="113" src="images/shippingcart/pr-01.jpg" alt="shipping cart"></figure>
+                                                <figure><img width="113" height="113" src="assets/images/shippingcart/pr-01.jpg" alt="shipping cart"></figure>
                                             </a>
                                             <a class="prd-name" href="#">National Fresh Fruit</a>
                                             <div class="action">
@@ -103,7 +103,7 @@
                                     <tr class="cart_item">
                                         <td class="product-thumbnail" data-title="Product Name">
                                             <a class="prd-thumb" href="#">
-                                                <figure><img width="113" height="113" src="images/shippingcart/pr-02.jpg" alt="shipping cart"></figure>
+                                                <figure><img width="113" height="113" src="assets/images/shippingcart/pr-02.jpg" alt="shipping cart"></figure>
                                             </a>
                                             <a class="prd-name" href="#">National Fresh Fruit</a>
                                             <div class="action">
@@ -196,7 +196,7 @@
                             <div class="contain-product layout-default">
                                 <div class="product-thumb">
                                     <a href="#" class="link-to-product">
-                                        <img src="images/products/p-13.jpg" alt="dd" width="270" height="270" class="product-thumnail">
+                                        <img src="assets/images/products/p-13.jpg" alt="dd" width="270" height="270" class="product-thumnail">
                                     </a>
                                 </div>
                                 <div class="info">
@@ -221,7 +221,7 @@
                             <div class="contain-product layout-default">
                                 <div class="product-thumb">
                                     <a href="#" class="link-to-product">
-                                        <img src="images/products/p-14.jpg" alt="dd" width="270" height="270" class="product-thumnail">
+                                        <img src="assets/images/products/p-14.jpg" alt="dd" width="270" height="270" class="product-thumnail">
                                     </a>
                                 </div>
                                 <div class="info">
@@ -246,7 +246,7 @@
                             <div class="contain-product layout-default">
                                 <div class="product-thumb">
                                     <a href="#" class="link-to-product">
-                                        <img src="images/products/p-15.jpg" alt="dd" width="270" height="270" class="product-thumnail">
+                                        <img src="assets/images/products/p-15.jpg" alt="dd" width="270" height="270" class="product-thumnail">
                                     </a>
                                 </div>
                                 <div class="info">
@@ -271,7 +271,7 @@
                             <div class="contain-product layout-default">
                                 <div class="product-thumb">
                                     <a href="#" class="link-to-product">
-                                        <img src="images/products/p-10.jpg" alt="dd" width="270" height="270" class="product-thumnail">
+                                        <img src="assets/images/products/p-10.jpg" alt="dd" width="270" height="270" class="product-thumnail">
                                     </a>
                                 </div>
                                 <div class="info">
@@ -296,7 +296,7 @@
                             <div class="contain-product layout-default">
                                 <div class="product-thumb">
                                     <a href="#" class="link-to-product">
-                                        <img src="images/products/p-08.jpg" alt="dd" width="270" height="270" class="product-thumnail">
+                                        <img src="assets/images/products/p-08.jpg" alt="dd" width="270" height="270" class="product-thumnail">
                                     </a>
                                 </div>
                                 <div class="info">
@@ -321,7 +321,7 @@
                             <div class="contain-product layout-default">
                                 <div class="product-thumb">
                                     <a href="#" class="link-to-product">
-                                        <img src="images/products/p-21.jpg" alt="dd" width="270" height="270" class="product-thumnail">
+                                        <img src="assets/images/products/p-21.jpg" alt="dd" width="270" height="270" class="product-thumnail">
                                     </a>
                                 </div>
                                 <div class="info">
@@ -346,7 +346,7 @@
                             <div class="contain-product layout-default">
                                 <div class="product-thumb">
                                     <a href="#" class="link-to-product">
-                                        <img src="images/products/p-18.jpg" alt="dd" width="270" height="270" class="product-thumnail">
+                                        <img src="assets/images/products/p-18.jpg" alt="dd" width="270" height="270" class="product-thumnail">
                                     </a>
                                 </div>
                                 <div class="info">

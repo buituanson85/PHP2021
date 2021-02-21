@@ -23,7 +23,7 @@
                         <li class="post-elem">
                             <div class="post-item style-left-info">
                                 <div class="thumbnail">
-                                    <a href="#" class="link-to-post"><img src="images/our-blog/post-thumb-01.jpg" width="370" height="270" alt=""></a>
+                                    <a href="#" class="link-to-post"><img src="assets/images/our-blog/post-thumb-01.jpg" width="370" height="270" alt=""></a>
                                 </div>
                                 <div class="post-content">
                                     <h4 class="post-name"><a href="#" class="linktopost">Ashwagandha: #1 Herb Anxiety?</a></h4>
@@ -40,7 +40,7 @@
                         <li class="post-elem">
                             <div class="post-item style-left-info">
                                 <div class="thumbnail">
-                                    <a href="#" class="link-to-post"><img src="images/our-blog/post-thumb-02.jpg" width="370" height="270" alt=""></a>
+                                    <a href="#" class="link-to-post"><img src="assets/images/our-blog/post-thumb-02.jpg" width="370" height="270" alt=""></a>
                                 </div>
                                 <div class="post-content">
                                     <h4 class="post-name"><a href="#" class="linktopost">Ashwagandha: #1 Herb Anxiety?</a></h4>
@@ -57,7 +57,7 @@
                         <li class="post-elem">
                             <div class="post-item style-left-info">
                                 <div class="thumbnail">
-                                    <a href="#" class="link-to-post"><img src="images/our-blog/post-thumb-03.jpg" width="370" height="270" alt=""></a>
+                                    <a href="#" class="link-to-post"><img src="assets/images/our-blog/post-thumb-03.jpg" width="370" height="270" alt=""></a>
                                 </div>
                                 <div class="post-content">
                                     <h4 class="post-name"><a href="#" class="linktopost">Ashwagandha: #1 Herb Anxiety?</a></h4>
@@ -74,7 +74,7 @@
                         <li class="post-elem">
                             <div class="post-item style-left-info">
                                 <div class="thumbnail">
-                                    <a href="#" class="link-to-post"><img src="images/our-blog/post-thumb-04.jpg" width="370" height="270" alt=""></a>
+                                    <a href="#" class="link-to-post"><img src="assets/images/our-blog/post-thumb-04.jpg" width="370" height="270" alt=""></a>
                                 </div>
                                 <div class="post-content">
                                     <h4 class="post-name"><a href="#" class="linktopost">Ashwagandha: #1 Herb Anxiety?</a></h4>
@@ -91,7 +91,7 @@
                         <li class="post-elem">
                             <div class="post-item style-left-info">
                                 <div class="thumbnail">
-                                    <a href="#" class="link-to-post"><img src="images/our-blog/post-thumb-05.jpg" width="370" height="270" alt=""></a>
+                                    <a href="#" class="link-to-post"><img src="assets/images/our-blog/post-thumb-05.jpg" width="370" height="270" alt=""></a>
                                 </div>
                                 <div class="post-content">
                                     <h4 class="post-name"><a href="#" class="linktopost">Ashwagandha: #1 Herb Anxiety?</a></h4>
